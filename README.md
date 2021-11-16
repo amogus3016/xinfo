@@ -1,5 +1,5 @@
 # xinfo
-xinfo is a simpler alternative to neofetch. Although not as visually appealing as neofetch, xinfo aims to provide a simple, easy to read system information output that is easily modifiable should the user know basic python.
+xinfo is a simpler alternative to neofetch. Although not as visually appealing as neofetch, xinfo aims to provide a simple, easy to read system information output that is easily modifiable should the user know basic python. One notable advantage of xinfo is that, no matter what operating system you run, as long as it supports python, xinfo will just work.
 
 **INSTALLATION**
 - Download xinfo.py from this repository
