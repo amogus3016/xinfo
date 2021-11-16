@@ -4,6 +4,7 @@ xinfo is a simpler alternative to neofetch. Although not as visually appealing a
 **INSTALLATION**
 - Clone this repository (preferably to the Downloads folder)
 - Add the following line to your shell's configuration file (~/.bashrc or ~/.zshrc): alias xinfo="python /path/to/file (provide the path to xinfo.py)
+- (OPTIONAL) Add to your shell's configuration file: alias neofetch="xinfo"
 
 **NOTES**
 - Make sure not to clone the repository to /tmp. This will delete xinfo every time you boot your PC.
