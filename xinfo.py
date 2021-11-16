@@ -9,6 +9,7 @@ xascii = '''___   ___
   >   <   
  /  .  \  
 /__/ \__\ '''
+# The xascii variable allows the user to easily change the ascii art by pasting it between the triple quotes
 
 my_system = platform.uname()
 
@@ -19,6 +20,6 @@ print(f"OS: {my_system.system}") # Prints the OS
 print(f"Host: {my_system.node}") # Prints the user's hostname
 print(f"Kernel: {my_system.release}") # Prints the kernel's version
 print(f"Architecture: {my_system.machine}") # Prints the CPU's architecture
-print("===============")
+print("===============") # Prints the separator line
 
 # xinfo is licensed under the GNU GPL
