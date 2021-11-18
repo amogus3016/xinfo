@@ -11,4 +11,5 @@ xinfo is a simpler alternative to neofetch. Although not as visually appealing a
 - At its base level, xinfo is very simple. It is expected that the user will make modifications that will suit their needs.
 
 **GET FEATURED**
+
 Want to have your xinfo configuration featured on the README? Contact me through github
