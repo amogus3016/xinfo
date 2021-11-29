@@ -3,13 +3,12 @@
 
 import platform
 
-xascii = '''db	db 
-`8b  d8'
- `8bd8' 
- .dPYb.
-.8P  Y8. 
-YP	YP 
-'''
+xascii = '''___   ___ 
+\  \ /  / 
+ \  V  /  
+  >   <   
+ /  .  \  
+/__/ \__\ '''
 # The xascii variable allows the user to easily change the ascii art by pasting it between the triple quotes
 
 my_system = platform.uname()
