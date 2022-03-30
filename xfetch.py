@@ -1,4 +1,4 @@
-# xinfo is a simple neofetch alternative that aims to make modification, should the user know basic python, very easy.
+# xfetch is a simple neofetch alternative that aims to make modification, should the user know basic python, very easy.
 # Please refer to the README.md if you are looking to install
 
 import platform
@@ -14,7 +14,7 @@ xascii = '''___   ___
 my_system = platform.uname()
 
 print(xascii) # Prints the X ascii art
-print("xinfo") # Prints xinfo
+print("xfetch") # Prints xinfo
 print("===============") # Prints the separator line
 print(f"OS: {my_system.system}") # Prints the OS
 print(f"Host: {my_system.node}") # Prints the user's hostname
