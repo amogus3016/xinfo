@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # xfetch is a simple neofetch alternative that aims to make modification, should the user know basic python, very easy.
 # Please refer to the README.md if you are looking to install
 
